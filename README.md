@@ -1,2 +1,2 @@
-# Rust Projects
- A collection of my rust projects
+# Rust
+A collection of my projects in Rust
